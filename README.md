@@ -1,4 +1,4 @@
-<h1 align="center"> Dama das imitaçes </h1>
+<h1 align="center"> Dama das imitações </h1>
 O projeto foi desenvolvido após uma reunião feita pela equipe da entidade no inicio de 2025, onde foi decidido o desenvolvimento de um jogo com a finalidade de desenvolvermos ainda mais nosso conhecimento e repertório, fundamentais para o avanço na entidade estudantil. Assim, Dama das imitações surgiu na junção de um jogo de damas normal adicionado a dinâmica de um dos minigames de mario party, onde o jogador que conseguir reproduzir a cena mais rápido vence a partida.
 
 # 🔨 Funcionalidades do projeto
